@@ -43,4 +43,5 @@ This project provides an analytical overview of the smartphone market using inte
 - Smartphone insights summary dashboard with filters and slicers  
 
 ## Dashboard Preview
-(cellphone.PNG)
+
+![Student Habits Dashboard](cellphone.PNG)
